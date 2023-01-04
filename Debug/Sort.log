@@ -1,0 +1,4 @@
+﻿  Sort.cpp
+C:\Users\Mixhael Cervantes\Desktop\Passed School Stuff\CS 242\Final\Sort\Sort.cpp(70,18): warning C4244: '=': conversion from 'time_t' to 'long', possible loss of data
+C:\Users\Mixhael Cervantes\Desktop\Passed School Stuff\CS 242\Final\Sort\Sort.cpp(77,22): warning C4244: '=': conversion from 'time_t' to 'long', possible loss of data
+  Sort.vcxproj -> C:\Users\Mixhael Cervantes\Desktop\Passed School Stuff\CS 242\Final\Sort\Debug\Sort.exe
